@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hamza</h1>
-<h3 align="center">I'm a student of electric and electronic engineering student. I've experienced working with PCB cards and electronic machines during my internship time. Now, I am working on Software Development with C# language. My current project that I'm working on includes C# and programming. I want to improve myself in this field.</h3>
+<h3 align="center">I'm a new graduate of Electric and Electronic Engineering. I've experienced working with PCB cards and electronic machines during my internship time. Now, I am working on Software Development with C# language. My current project that I'm working on includes C# and programming. I want to improve myself in this field.</h3>
 
 - 🌱 I’m currently learning **.NET MVC**
 - 💬 Ask me about **Python, SQL Server, C#**
