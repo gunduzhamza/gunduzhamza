@@ -1,7 +1,12 @@
 <h1 align="center">Hi, I'm Hamza</h1>
 <h3 align="center">I'm a student of electric and electronic engineering student. I've experienced working with PCB cards and electronic machines during my internship time. Now, I am working on Software Development with C# language. My current project that I'm working on includes C# and programming. I want to improve myself in this field.</h3>
+- 🌱 I’m currently learning **.NET MVC**
 
-<h3 align="left">Go to My Projects:</h3>
+- 💬 Ask me about **Python, SQL Server, C#**
+- [Github gist](https://gist.github.com/gunduzhamza)
+
+<h3 align="left">A Few of My Projects:</h3>
+<p align="left">
 
 * [MP3 Music Player](https://github.com/gunduzhamza/Mp3mucis)
 * [Image Processing Applications](https://github.com/gunduzhamza/ImgProcess-App)
@@ -9,12 +14,10 @@
 * [Sql Basics](https://github.com/gunduzhamza/Sql-basics)
 * [Tic Tac Toe](https://github.com/gunduzhamza/Tictactoe)
 * [Energy Transmission Project](https://github.com/gunduzhamza/Energy-Tansmission-Project)
-
+</p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **.NET MVC**
 
-- 💬 Ask me about **Python, SQL Server, C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
